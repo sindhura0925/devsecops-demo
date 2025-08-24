@@ -156,8 +156,8 @@ jobs:
       
       - name: Setup Git config
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git config user.name "sindhura0925"
+          git config user.email "sindhura0925@gmail.com"
       
       - name: Update Kubernetes deployment file
         env:
